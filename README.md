@@ -1,8 +1,7 @@
 # portfolio
 
-[GH do portfólio](https://alfredojry.github.io/portfolio/){:target="_blank"} (markdown)
+[🚀 Portfólio](https://alfredojry.github.io/portfolio/)
 
-<a href="https://alfredojry.github.io/portfolio/" target="_blank">🚀 Portfólio (html inline)</a>
+## Layout
 
-Layout
 ![imagem grande](https://raw.githubusercontent.com/alfredojry/portfolio/main/rascunhos/layout.png)
